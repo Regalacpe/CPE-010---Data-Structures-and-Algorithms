@@ -24,7 +24,13 @@ Complexity, Algorithm Analysis Techniques
 - Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
 - Stacks: Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving
 ### MIDTERM PERIOD
-
+- Queues: Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem Solving
+- Searching Techniques: Linear Search, Binary Search, Hashing
+- Sorting Algorithms: Basic Sorting Algorithms
+### FINAL PERIOD
+- Tree ADT; General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees.
+- Graph ADT; Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.
+- Basic Algorithm Analysis; Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
   
 # Purpose of the repository
 The purpose of this repository is all of my laboratory activities that I have performed spanning from the prelims period to finals period of this course.
