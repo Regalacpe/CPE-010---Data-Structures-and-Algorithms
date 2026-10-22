@@ -15,6 +15,7 @@ effective program or software application that will solve a particular engineeri
 - Write C++ code for recursion, class definition, and objects following the language's standard code structure
 
 **Course Instructor**
+
 Engineer Jimlord Quejado 
 
 # Purpose of the repository
