@@ -7,13 +7,13 @@ trees (including binary and multi-way trees), heaps, stacks, and priority queues
 external search trees (B-trees), and fundamentals of sorting algorithms with external sorting are introduced and compared. The
 student's outcome is to design algorithms for each data structure and to use data structures and algorithms in the design of an
 effective program or software application that will solve a particular engineering-related problem using C++.
-\
+
 
 ## INTENDED LEARNING OUTCOMES
 - Distinguish the difference among types of data structures
 - Assess the time complexity of algorithms using asymptotic analysis and notation
 - Write C++ code for recursion, class definition, and objects following the language's standard code structure
-\
+
 ## COURSE TOPICS
 ### PRELIM PERIOD
 - Course Introduction: TIP Vision and Mission; TIP Graduate Attributes/Institutional Learning Outcomes; Program Educational
@@ -23,6 +23,7 @@ Software and Tools.
 Complexity, Algorithm Analysis Techniques
 - Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
 - Stacks: Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving
+### MIDTERM PERIOD
 
   
 # Purpose of the repository
