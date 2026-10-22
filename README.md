@@ -31,8 +31,10 @@ Complexity, Algorithm Analysis Techniques
 - Tree ADT; General and Binary Search Trees; AVL Tree; Traversal Algorithms; Solving Problems using Trees.
 - Graph ADT; Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; Solving Problems using Graphs.
 - Basic Algorithm Analysis; Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
-  
-# Purpose of the repository
+
+
+
+
+## Purpose of the repository
 The purpose of this repository is all of my laboratory activities that I have performed spanning from the prelims period to finals period of this course.
 
-Posted are my Hands-On Activities and my skill exam
