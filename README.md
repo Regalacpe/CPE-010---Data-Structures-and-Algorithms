@@ -14,5 +14,5 @@ effective program or software application that will solve a particular engineeri
 - Assess the time complexity of algorithms using asymptotic analysis and notation
 - Write C++ code for recursion, class definition, and objects following the language's standard code structure
 
-#Purpose of the repository
+# Purpose of the repository
 The purpose of this repository is all of my laboratory activities that I have performed spanning from the prelims period to finals period of this course.
