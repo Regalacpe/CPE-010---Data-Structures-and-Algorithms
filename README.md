@@ -18,7 +18,7 @@ effective program or software application that will solve a particular engineeri
 ---
 
 
-## COURSE TOPICS
+### COURSE TOPICS
 ### PRELIM PERIOD
 - Course Introduction: TIP Vision and Mission; TIP Graduate Attributes/Institutional Learning Outcomes; Program Educational
 Objectives / Student Outcomes; Course Syllabus and Course Requirements; Orientation for Industry and Laboratory
